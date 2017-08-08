@@ -29,13 +29,35 @@ namespace LeetSpeak.Tests
     {
       LeetSpeakLang testLeetSpeak = new LeetSpeakLang("code");
       List<string> expected = new List<string>{"c0d3"};
+      List<string> actual = testLeetSpeak.ConvertToLeet();
+      CollectionAssert.AreEqual(expected, actual);
+    }
+    [TestMethod]
+    public void ConvertToLeet_Convertl_1amp()
+    {
+      LeetSpeakLang testLeetSpeak = new LeetSpeakLang("lamp");
+      List<string> expected = new List<string>{"1amp"};
+      List<string> actual = testLeetSpeak.ConvertToLeet();
+      CollectionAssert.AreEqual(expected, actual);
+    }
+    [TestMethod]
+    public void ConvertToLeet_ConvertT_1337()
+    {
+      LeetSpeakLang testLeetSpeak = new LeetSpeakLang("leet");
+      List<string> expected = new List<string>{"1337"};
+      List<string> actual = testLeetSpeak.ConvertToLeet();
+      CollectionAssert.AreEqual(expected, actual);
+    }
+    [TestMethod]
+    public void ConvertToLeet_ConvertS_1ampz()
+    {
+      LeetSpeakLang testLeetSpeak = new LeetSpeakLang("sossy");
+      List<string> expected = new List<string>{"s0zzy"};
       expected.ForEach(Console.WriteLine);
       List<string> actual = testLeetSpeak.ConvertToLeet();
       actual.ForEach(Console.WriteLine);
       CollectionAssert.AreEqual(expected, actual);
     }
-    // [TestMethod]
-    // public void  ConvertToLeet_
 
     public void Dispose()
     {

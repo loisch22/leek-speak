@@ -11,3 +11,16 @@
 /Users/Guest/Desktop/LeetSpeak.Solution/LeetSpeak.Tests/bin/Debug/netcoreapp1.1/LeetSpeak.pdb
 /Users/Guest/Desktop/LeetSpeak.Solution/LeetSpeak.Tests/obj/Debug/netcoreapp1.1/LeetSpeak.Tests.dll
 /Users/Guest/Desktop/LeetSpeak.Solution/LeetSpeak.Tests/obj/Debug/netcoreapp1.1/LeetSpeak.Tests.pdb
+/Users/loischoi/Desktop/leek-speak/LeetSpeak.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/loischoi/Desktop/leek-speak/LeetSpeak.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/loischoi/Desktop/leek-speak/LeetSpeak.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/loischoi/Desktop/leek-speak/LeetSpeak.Tests/bin/Debug/netcoreapp1.1/LeetSpeak.Tests.deps.json
+/Users/loischoi/Desktop/leek-speak/LeetSpeak.Tests/bin/Debug/netcoreapp1.1/LeetSpeak.Tests.runtimeconfig.json
+/Users/loischoi/Desktop/leek-speak/LeetSpeak.Tests/bin/Debug/netcoreapp1.1/LeetSpeak.Tests.runtimeconfig.dev.json
+/Users/loischoi/Desktop/leek-speak/LeetSpeak.Tests/bin/Debug/netcoreapp1.1/LeetSpeak.Tests.dll
+/Users/loischoi/Desktop/leek-speak/LeetSpeak.Tests/bin/Debug/netcoreapp1.1/LeetSpeak.Tests.pdb
+/Users/loischoi/Desktop/leek-speak/LeetSpeak.Tests/bin/Debug/netcoreapp1.1/LeetSpeak.dll
+/Users/loischoi/Desktop/leek-speak/LeetSpeak.Tests/bin/Debug/netcoreapp1.1/LeetSpeak.pdb
+/Users/loischoi/Desktop/leek-speak/LeetSpeak.Tests/obj/Debug/netcoreapp1.1/LeetSpeak.Tests.AssemblyInfo.cs
+/Users/loischoi/Desktop/leek-speak/LeetSpeak.Tests/obj/Debug/netcoreapp1.1/LeetSpeak.Tests.dll
+/Users/loischoi/Desktop/leek-speak/LeetSpeak.Tests/obj/Debug/netcoreapp1.1/LeetSpeak.Tests.pdb
