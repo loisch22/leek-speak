@@ -49,7 +49,7 @@ namespace LeetSpeak.Tests
       CollectionAssert.AreEqual(expected, actual);
     }
     [TestMethod]
-    public void ConvertToLeet_ConvertS_1ampz()
+    public void ConvertToLeet_ConvertS_s0zzy()
     {
       LeetSpeakLang testLeetSpeak = new LeetSpeakLang("sossy");
       List<string> expected = new List<string>{"s0zzy"};
